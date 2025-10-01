@@ -55,9 +55,4 @@ With training from **Hacktiv8 Data Science Bootcamp** and certifications in **AW
 
 ---
 
-## 📈 GitHub Activity  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourgithubusername&theme=default)  
-
----
-
 ✨ *Fast learner, adaptable, and passionate about data. Always open for collaboration and exciting opportunities in data science & engineering!*  
