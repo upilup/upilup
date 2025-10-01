@@ -43,8 +43,6 @@ With training from **Hacktiv8 Data Science Bootcamp** and certifications in **AW
 - [**ETL Pipeline with Airflow & BigQuery**](https://github.com/upilup/coffee_sales) — Designed an automated data pipeline for ingestion, cleaning, and loading into BigQuery.  
 - [**Dashboard for Financial Insights**](https://github.com/upilup/Payment-Fraud) — Developed Tableau & Looker Studio dashboards for KPI tracking and reporting.  
 
-*(Replace links with your actual repos when ready)*  
-
 ---
 
 ## 🎓 Education & Certifications  
