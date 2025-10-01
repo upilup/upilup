@@ -3,8 +3,8 @@
 📊 Data Enthusiast (**Data Analytics**, **Data Engineering**, **Machine Learning**)  
 📍 Based in Indonesia  
 
-I’m a **Data Analyst / Data Scientist / Aspiring Data Engineer** passionate about transforming raw data into actionable insights and building reliable data pipelines.  
-With training from **Hacktiv8 Data Science Bootcamp** and certifications in **AWS Cloud Practitioner, Machine Learning, and Product Management**, I thrive on solving real-world problems using data-driven solutions.  
+I’m **Luthfi Alfatih**, a **Data Analyst & aspiring Data Engineer** passionate about transforming raw data into clear insights and building reliable data pipelines.  
+With solid training from Hacktiv8’s **Data Science Bootcamp** and hands-on experience across industries like **banking, F&B, and education**, I specialize in making data not only understandable but also actionable.  
 
 ---
 
