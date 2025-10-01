@@ -1,10 +1,17 @@
 # 🚀 Hi, I'm **M. Luthfi Alfatih**  
 
-📊 Data Enthusiast (**Data Analytics**, **Data Engineering**, **Machine Learning**)  
+📊 Focused on **Data Analytics** & **Data Engineering**  
 📍 Based in Indonesia  
 
-I’m **Luthfi Alfatih**, a **Data Analyst & aspiring Data Engineer** passionate about transforming raw data into clear insights and building reliable data pipelines.  
-With solid training from Hacktiv8’s **Data Science Bootcamp** and hands-on experience across industries like **banking, F&B, and education**, I specialize in making data not only understandable but also actionable.  
+I’m **Luthfi Alfatih**, a **Data Analyst & aspiring Data Engineer** passionate about turning raw data into impactful insights and building scalable data pipelines. With strong training from Hacktiv8’s **Data Science Bootcamp** and practical experience across industries such as **banking, F&B, and education**, I help businesses leverage data for smarter decision-making and efficient operations. 
+
+---
+
+## 🚀 About Me  
+- 🌱 Currently Learning: **ETL pipelines (Airflow, Docker), advanced SQL, and real-time analytics**  
+- 🔍 Interests: Collaborating on **end-to-end data workflows**, from cleaning and wrangling to deploying scalable solutions in the cloud  
+- 🌐 Perspective: My diverse background gives me an edge in understanding how **data impacts business decisions** across different domains  
+- 🎯 Goal: To contribute as a **Data Analyst / Data Engineer** who bridges business needs with scalable, data-driven solutions  
 
 ---
 
